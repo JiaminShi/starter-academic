@@ -71,5 +71,9 @@ user_groups:
 - Visitors
 ---
 
- <p>I am a senior year undergraduate at University of Waterloo, majoring  in Computer Science. Beside computer science, I have taken some fine arts and pure/applied mathemetics electives. Currently, I am working with Prof. Christopher Batty on physically-based rendering with focus on fluid simulation.</p>
+I am a senior year undergraduate at University of Waterloo, majoring  in Computer Science. Beside computer science, I have taken some fine arts and pure/applied mathemetics electives. Currently, I am working with Prof. Christopher Batty on physically-based rendering with focus on fluid simulation.
+
 I also did a few software engineer internships at different companies.
+
+You can look at my [old website](https://jiaminshi.github.io/) for some art projects.
+
