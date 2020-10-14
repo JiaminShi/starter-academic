@@ -49,9 +49,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/JiaminShi
-- icon: linked-in
+- icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/jiamin-shi-741973129
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/carey_shi/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
