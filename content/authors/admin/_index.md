@@ -24,7 +24,7 @@ interests:
 - Computer Graphics
 - Physically-Based Simulation
 - Computational Geometry
-- Computational Fine Arts
+- Generative Arts
 
 education:
   courses:
@@ -51,7 +51,7 @@ social:
   link: https://github.com/JiaminShi
 - icon: linked-in
   icon_pack: fab
-  link: www.linkedin.com/in/jiamin-shi-741973129
+  link: https://www.linkedin.com/in/jiamin-shi-741973129
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
