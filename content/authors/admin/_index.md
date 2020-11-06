@@ -78,5 +78,5 @@ I am a senior year undergraduate at University of Waterloo, majoring  in Compute
 
 I also did a few software engineer internships at different companies.
 
-You can look at my [old website](https://jiaminshi.github.io/) for some art projects.
+You can look at my [old website](https://jiaminshi.github.io/) for some generative art projects.
 
